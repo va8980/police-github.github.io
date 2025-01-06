@@ -165,6 +165,14 @@ The data used in this project were retrieved from http://www.gld.gov.hk/egazette
         <td>2019</td>
         <td>
           https://www.gld.gov.hk/egazette/pdf/20192301/cgn2019230137.pdf
+          https://www.gld.gov.hk/egazette/tc_chi/gazette/file.php?year=2019&vol=23&no=30&extra=0&type=0&number=4662
+            </td>
+    </tr>
+    <tr>
+             <td>2020</td>
+        <td>
+            https://www.gld.gov.hk/egazette/tc_chi/gazette/file.php?year=2020&vol=24&no=5&extra=0&type=0&number=614
+            https://www.gld.gov.hk/egazette/tc_chi/gazette/file.php?year=2020&vol=24&no=32&extra=0&type=0&number=4458
         </td>
     </tr>
 </table>
